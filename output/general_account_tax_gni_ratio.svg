@@ -1,0 +1,80 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'>
+  <style>    text { font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif; fill: #333; }
+    .title { font-size: 24px; font-weight: 600; }
+    .subtitle { font-size: 16px; fill: #555; }
+    .axis text { font-size: 14px; }
+    .tick text { font-size: 12px; fill: #444; }
+  </style>
+  <rect x='0' y='0' width='960' height='540' fill='#ffffff' />
+  <text class='title' x='480.0' y='40.0' text-anchor='middle'>一般会計税収/名目GNI比の推移</text>
+  <text class='subtitle' x='480.0' y='62.0' text-anchor='middle'>1994年度〜2023年度</text>
+  <line x1='80' y1='70' x2='80' y2='470' stroke='#333' stroke-width='1' />
+  <line x1='80' y1='470' x2='920' y2='470' stroke='#333' stroke-width='1' />
+  <line x1='80' y1='470.00' x2='920' y2='470.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='474.00' text-anchor='end'>7</text>  </g>
+  <line x1='80' y1='390.00' x2='920' y2='390.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='394.00' text-anchor='end'>8</text>  </g>
+  <line x1='80' y1='310.00' x2='920' y2='310.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='314.00' text-anchor='end'>9</text>  </g>
+  <line x1='80' y1='230.00' x2='920' y2='230.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='234.00' text-anchor='end'>10</text>  </g>
+  <line x1='80' y1='150.00' x2='920' y2='150.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='154.00' text-anchor='end'>11</text>  </g>
+  <line x1='80' y1='70.00' x2='920' y2='70.00' stroke='#dddddd' stroke-width='1' />
+  <g class='tick'>    <text x='70' y='74.00' text-anchor='end'>12</text>  </g>
+  <line x1='80.00' y1='470' x2='80.00' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='80.00' y='494' text-anchor='middle'>1994</text>  </g>
+  <line x1='166.90' y1='470' x2='166.90' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='166.90' y='494' text-anchor='middle'>1997</text>  </g>
+  <line x1='253.79' y1='470' x2='253.79' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='253.79' y='494' text-anchor='middle'>2000</text>  </g>
+  <line x1='340.69' y1='470' x2='340.69' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='340.69' y='494' text-anchor='middle'>2003</text>  </g>
+  <line x1='427.59' y1='470' x2='427.59' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='427.59' y='494' text-anchor='middle'>2006</text>  </g>
+  <line x1='514.48' y1='470' x2='514.48' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='514.48' y='494' text-anchor='middle'>2009</text>  </g>
+  <line x1='601.38' y1='470' x2='601.38' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='601.38' y='494' text-anchor='middle'>2012</text>  </g>
+  <line x1='688.28' y1='470' x2='688.28' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='688.28' y='494' text-anchor='middle'>2015</text>  </g>
+  <line x1='775.17' y1='470' x2='775.17' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='775.17' y='494' text-anchor='middle'>2018</text>  </g>
+  <line x1='862.07' y1='470' x2='862.07' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='862.07' y='494' text-anchor='middle'>2021</text>  </g>
+  <line x1='920.00' y1='470' x2='920.00' y2='476' stroke='#333' stroke-width='1' />
+  <g class='tick'>    <text x='920.00' y='494' text-anchor='middle'>2023</text>  </g>
+  <path d='M80.00,220.61 L108.97,231.08 L137.93,218.86 L166.90,226.43 L195.86,280.86 L224.83,262.35 L253.79,258.75 L282.76,282.00 L311.72,302.58 L340.69,345.27 L369.66,344.46 L398.62,344.54 L427.59,334.10 L456.55,307.49 L485.52,366.33 L514.48,412.04 L543.45,399.35 L572.41,373.79 L601.38,371.46 L630.34,345.62 L659.31,254.14 L688.28,240.24 L717.24,263.95 L746.21,249.16 L775.17,249.01 L804.14,311.98 L833.10,273.65 L862.07,140.23 L891.03,129.86 L920.00,183.01' fill='none' stroke='#1f78b4' stroke-width='2.5' />
+  <circle cx='80.00' cy='220.61' r='3.5' fill='#1f78b4' />
+  <circle cx='108.97' cy='231.08' r='3.5' fill='#1f78b4' />
+  <circle cx='137.93' cy='218.86' r='3.5' fill='#1f78b4' />
+  <circle cx='166.90' cy='226.43' r='3.5' fill='#1f78b4' />
+  <circle cx='195.86' cy='280.86' r='3.5' fill='#1f78b4' />
+  <circle cx='224.83' cy='262.35' r='3.5' fill='#1f78b4' />
+  <circle cx='253.79' cy='258.75' r='3.5' fill='#1f78b4' />
+  <circle cx='282.76' cy='282.00' r='3.5' fill='#1f78b4' />
+  <circle cx='311.72' cy='302.58' r='3.5' fill='#1f78b4' />
+  <circle cx='340.69' cy='345.27' r='3.5' fill='#1f78b4' />
+  <circle cx='369.66' cy='344.46' r='3.5' fill='#1f78b4' />
+  <circle cx='398.62' cy='344.54' r='3.5' fill='#1f78b4' />
+  <circle cx='427.59' cy='334.10' r='3.5' fill='#1f78b4' />
+  <circle cx='456.55' cy='307.49' r='3.5' fill='#1f78b4' />
+  <circle cx='485.52' cy='366.33' r='3.5' fill='#1f78b4' />
+  <circle cx='514.48' cy='412.04' r='3.5' fill='#1f78b4' />
+  <circle cx='543.45' cy='399.35' r='3.5' fill='#1f78b4' />
+  <circle cx='572.41' cy='373.79' r='3.5' fill='#1f78b4' />
+  <circle cx='601.38' cy='371.46' r='3.5' fill='#1f78b4' />
+  <circle cx='630.34' cy='345.62' r='3.5' fill='#1f78b4' />
+  <circle cx='659.31' cy='254.14' r='3.5' fill='#1f78b4' />
+  <circle cx='688.28' cy='240.24' r='3.5' fill='#1f78b4' />
+  <circle cx='717.24' cy='263.95' r='3.5' fill='#1f78b4' />
+  <circle cx='746.21' cy='249.16' r='3.5' fill='#1f78b4' />
+  <circle cx='775.17' cy='249.01' r='3.5' fill='#1f78b4' />
+  <circle cx='804.14' cy='311.98' r='3.5' fill='#1f78b4' />
+  <circle cx='833.10' cy='273.65' r='3.5' fill='#1f78b4' />
+  <circle cx='862.07' cy='140.23' r='3.5' fill='#1f78b4' />
+  <circle cx='891.03' cy='129.86' r='3.5' fill='#1f78b4' />
+  <circle cx='920.00' cy='183.01' r='3.5' fill='#1f78b4' />
+  <text class='axis' x='30' y='270.0' text-anchor='middle' transform='rotate(-90 30,270.0)'>税収/名目GNI（%）</text>
+  <text class='axis' x='500.0' y='520' text-anchor='middle'>財務省決算ベース税収 ÷ 内閣府SNA名目GNI（年度）</text>
+</svg>
